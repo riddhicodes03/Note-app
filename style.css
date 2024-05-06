@@ -1,0 +1,48 @@
+*{
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+body{
+    font-family: "poppins", sans-serif;
+    font-weight: 200;
+    background: #fff;
+    height: 100%;
+}
+
+ .app{
+    padding: 60px;
+ }
+
+ #create{
+border-radius: 15px;
+background-color: yellowgreen;
+width: 30vh;
+height: 5vh;
+ }
+ #container
+ {
+    margin: 0;
+    margin-top: 70px;
+  
+ }
+ #inp{
+   width: 50vh;
+   height: 15vh;
+   text-wrap: balance;
+ }
+ .note{
+    background-color: white;
+    width: 90vh;
+    height: 20vh;
+    margin: 20px;
+    text-wrap: balance;
+    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.2);
+ }
+ .dlt{
+   border-radius: 15px;
+   background-color: rgba(23, 28, 9, 0.327);
+   width: 15vh;
+   height: 5vh;
+   box-shadow: none;
+ }
